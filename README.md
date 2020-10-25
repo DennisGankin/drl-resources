@@ -19,3 +19,9 @@ A collection of videos, courses, cheet sheets, papers and everything else around
 - **The Deep Learning Book** *Goodfellow et al. 2016*: [all recources](http://www.deeplearningbook.org/) including exercises and slides (Ian Goodfellow), [PDF](https://raw.githubusercontent.com/janishar/mit-deep-learning-book-pdf/master/complete-book-bookmarked-pdf/deeplearningbook.pdf)
 - **Algorithms of Reinforcement Learning** *Szepesa 2009 (updated 2019)*: [all recources](https://sites.ualberta.ca/~szepesva/rlbook.html) including slides and exercises (University of Alberta); [PDF](https://sites.ualberta.ca/~szepesva/papers/RLAlgsInMDPs.pdf) 
 - **Grokking Deep Reinforcement Learning** *Morales 2010 (updated 2019)*: [Github page](https://github.com/mimoralea/gdrl) has chapters and Jupyter notebooks with code
+
+## Code 
+
+- https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
+- https://github.com/MishaLaskin/torchingup/blob/master/algos/dqn/dqn.py
+- https://github.com/openai/gym/blob/38a1f630dc9815a567aaf299ae5844c8f8b9a6fa/gym/envs/robotics/robot_env.py
