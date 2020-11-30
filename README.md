@@ -25,3 +25,38 @@ A collection of videos, courses, cheet sheets, papers and everything else around
 - https://pytorch.org/tutorials/intermediate/reinforcement_q_learning.html
 - https://github.com/MishaLaskin/torchingup/blob/master/algos/dqn/dqn.py
 - https://github.com/openai/gym/blob/38a1f630dc9815a567aaf299ae5844c8f8b9a6fa/gym/envs/robotics/robot_env.py
+- https://stable-baselines.readthedocs.io/en/master/modules/dqn.html
+
+
+## Double DQN 
+
+- https://towardsdatascience.com/double-deep-q-networks-905dd8325412
+- [Hasselt 2015](https://arxiv.org/pdf/1509.06461.pdf)
+
+
+## Distributed DQN
+
+- https://towardsdatascience.com/understanding-and-implementing-distributed-prioritized-experience-replay-horgan-et-al-2018-d2c1640e0520
+- https://github.com/cyoon1729/distributedRL
+- [DeepMind: Prioritized Experience Replay](https://arxiv.org/pdf/1511.05952.pdf)
+- [DeepMind: Distributed Prioritized Experience Replay](https://arxiv.org/pdf/1803.00933.pdf)
+- [Low quality paper](https://arxiv.org/ftp/arxiv/papers/1811/1811.10264.pdf)
+- [Standford: dirtibuted deep q-learning](https://stanford.edu/~rezab/classes/cme323/S15/projects/deep_Qlearning_report.pdf)
+- [Distributed Pytorch](https://pytorch.org/tutorials/beginner/dist_overview.html)
+- [Liu 2018](https://arxiv.org/ftp/arxiv/papers/1811/1811.10264.pdf)
+- https://julien-vitay.net/deeprl/Valuebased.html
+
+
+
+
+## Optimizers
+
+
+https://medium.com/syncedreview/iclr-2019-fast-as-adam-good-as-sgd-new-optimizer-has-both-78e37e8f9a34
+
+
+## Other papers
+
+- [DRL Overview](https://arxiv.org/abs/1701.07274)
+- 
+- 
