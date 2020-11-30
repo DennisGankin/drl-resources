@@ -15,3 +15,8 @@ These papers give a good general overview.
 + [Deep multi-agent reinforcement learning](https://ora.ox.ac.uk/objects/uuid:a55621b3-53c0-4e1b-ad1c-92438b57ffa4)
 + [Deep Reinforcement Learning Variants ofMulti-Agent Learning Algorithms](https://project-archive.inf.ed.ac.uk/msc/20162091/msc_proj.pdf)
   
+
+## Independent Q-Learning
+
++ [Stabilising Experience Replay for Deep Multi-Agent Reinforcement Learning](https://arxiv.org/pdf/1702.08887.pdf)
+  
